@@ -1,1 +1,1 @@
-# 2HwRKQ7DF9wgZVNq
+We will predict stock price valuations on a daily, weekly and monthly basis and recommend BUY, HOLD, SELL decisions using LSTM, Q-learning and Reinforcement learning. Our LSTM model will maximize capital returns and minimize losses. We will minimize HOLD periods. Bollinger Bands will be used to measure effectiveness.
